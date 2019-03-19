@@ -1,0 +1,27 @@
+body {
+  background-color: turquoise;
+}
+
+.jumbotron {
+  text-align: center;
+  font-family: "PT Serif", serif;
+  background-color: midnightblue;
+  color: white;
+}
+
+.card {
+  font-family: "PT Serif", serif;
+  border: 3px solid black;
+}
+.card-header {
+  background-color: gray;
+  border-bottom: 3px solid black;
+}
+#cardTwo {
+  margin-top: 4%;
+}
+
+#submit {
+  opacity: 0.7;
+  border: 3px solid black;
+}
